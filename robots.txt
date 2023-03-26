@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://3dalat.github.io/sitemap.xml
